@@ -9,7 +9,7 @@ print(scorers)
 report = f'{scorer_0} scored in the {goal_0}nd minute\n{scorer_1} scored in the {goal_1}th minute'
 print(report)
 
-player = 'Hans Van Breukelen'
+player = 'Arnhold Muhren'
 first_name = player[:player.find(' ')]
 print(first_name)
 
